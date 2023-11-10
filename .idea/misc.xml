@@ -5,6 +5,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/helloworldmvc.controller/pom.xml" />
+        <option value="$PROJECT_DIR$/helloworldmvc.contract/pom.xml" />
+        <option value="$PROJECT_DIR$/helloworldmvc.main/pom.xml" />
+        <option value="$PROJECT_DIR$/helloworldmvc.view/pom.xml" />
+        <option value="$PROJECT_DIR$/helloworldmvc.modele/pom.xml" />
       </list>
     </option>
   </component>
